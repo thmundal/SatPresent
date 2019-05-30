@@ -28,8 +28,6 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 19.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1383286643250814786}
-  - {fileID: 9206949755258469876}
   - {fileID: 9013492010895250045}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -76,11 +74,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1795802228316523631}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 6.6}
   m_LocalScale: {x: 0.97495, y: 0.97495, z: 0.97495}
   m_Children: []
-  m_Father: {fileID: 7669202915057238318}
+  m_Father: {fileID: 9013492010895250045}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -137,7 +135,7 @@ GameObject:
   - component: {fileID: 6890366494533610356}
   - component: {fileID: 2408777192037053490}
   m_Layer: 0
-  m_Name: Slide1_wp (1)
+  m_Name: waypoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -151,11 +149,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2770223549253098650}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -4.38}
+  m_LocalPosition: {x: -0, y: -0, z: -6.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1383286643250814786}
+  - {fileID: 9206949755258469876}
   m_Father: {fileID: 7669202915057238318}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6890366494533610356
 MonoBehaviour:
@@ -169,8 +169,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df4f6cc054f0c5744bf0210c1048622c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  number: 1
-  UIContainer: {fileID: 0}
+  number: 2
+  UIContainer: {fileID: 710534041383150642}
   canvasGroup: {fileID: 0}
 --- !u!20 &2408777192037053490
 Camera:
@@ -239,11 +239,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8949335290638101086}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 6.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 7669202915057238318}
+  m_Father: {fileID: 9013492010895250045}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -292,4 +292,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Slide 3

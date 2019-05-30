@@ -153,7 +153,122 @@ ModelImporter:
     4300042: 'Mesh '
     4300044: 'Mesh '
     10800000: Directional Light
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_black
+    second: {fileID: 2100000, guid: 02682581ffc630846baff2d8c9ec9f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_brass
+    second: {fileID: 2100000, guid: 8265161ae9e5d5d489d6e2162e1e6791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_bronze
+    second: {fileID: 2100000, guid: 1981c486a357a6a48b2783ffb22dc21a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_brown
+    second: {fileID: 2100000, guid: 603711766f131d24d878bb2144f147ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_gold
+    second: {fileID: 2100000, guid: c2251d54153a4c843bade915e08fe601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_gold_1
+    second: {fileID: 2100000, guid: ab6291ec197435f4a8ad61e6aef8cf0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_gold_2
+    second: {fileID: 2100000, guid: 68433bbac938f464887e9d5630352961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_grey
+    second: {fileID: 2100000, guid: a3f08a42513206f43b63a94da74b6612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_mirrors
+    second: {fileID: 2100000, guid: 205dd072391cc5d4bb9e96e3e56c6f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_ring
+    second: {fileID: 2100000, guid: 75eafaf697c910e4cb8160343b8e57b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_silver
+    second: {fileID: 2100000, guid: 382e1413b3d2d8945abe5f523efc9fc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_1
+    second: {fileID: 2100000, guid: 48002afbcd6049e41ae28e01ab97abc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_2
+    second: {fileID: 2100000, guid: 0573d497532dd6d46a2f258e5e967250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_3
+    second: {fileID: 2100000, guid: 248beea809bde224eb9f746156f0c8b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_4
+    second: {fileID: 2100000, guid: f921df16e6bfc4c4ba9809a46cc413ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_5
+    second: {fileID: 2100000, guid: 857ed4f7d82844747a5ec990ce11c4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_6
+    second: {fileID: 2100000, guid: 91a5a40d6131d6d46bd06a37d3832d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_7
+    second: {fileID: 2100000, guid: da4206a2d1610ab4ea8babf37838f148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_back
+    second: {fileID: 2100000, guid: c6d0eff1a1d2caf44b4c232618711dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_solar_side
+    second: {fileID: 2100000, guid: bfe23994656cf314c8aee349374bb253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_tele_in
+    second: {fileID: 2100000, guid: 4d0b872da9aebd649843b831c71a08b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_tele_out
+    second: {fileID: 2100000, guid: c63f02a691157624dbf3af176fa2fc75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cal_white
+    second: {fileID: 2100000, guid: f294df21eaca1bd489caae96b83ed57a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

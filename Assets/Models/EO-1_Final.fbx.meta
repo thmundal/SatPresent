@@ -131,7 +131,382 @@ ModelImporter:
     4300016: EO-1_vFINAL [Layer9]
     4300018: EO-1_vFINAL [Layer10]
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr1Box
+    second: {fileID: 2100000, guid: 1746ebd584d422844ac8efb9be804aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr1Tubes
+    second: {fileID: 2100000, guid: fc4aff09ed365f042875b3d730509ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr1TubesInside
+    second: {fileID: 2100000, guid: ec7ea81999eb5ce4e9b351fc2531ecfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr2Tube
+    second: {fileID: 2100000, guid: 1b80795c003c8674a9a83efdd2f22784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr2TubeTop
+    second: {fileID: 2100000, guid: d5ea349c6acc5614e83430f1bc282dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr2TubeTopPanel
+    second: {fileID: 2100000, guid: d6ed383debbfb5948af73bc5823f02d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr2TubeTopRing
+    second: {fileID: 2100000, guid: f0292ea2044957c40af3bf2b9805e37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr3
+    second: {fileID: 2100000, guid: e373cea816bf36e4a87b2c9b68890b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr3Disk
+    second: {fileID: 2100000, guid: 7cba94bf3dcb2f5418e4f61d93b58e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr4Base
+    second: {fileID: 2100000, guid: da328855dc9002a4897512055639b399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr4Main
+    second: {fileID: 2100000, guid: 47799899d4a29734093f2ffae4fa5afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr4Main-Ytop
+    second: {fileID: 2100000, guid: 6d2c2bacd02a629449a428d4e44e24f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr4Main-x
+    second: {fileID: 2100000, guid: 501fed43c2fa5504a8abe2898a6a5be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr4Main-z
+    second: {fileID: 2100000, guid: cba3f658654131f419c002dd15dd535a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr5Box
+    second: {fileID: 2100000, guid: 1950691fcf2b51d4b87227e928ab165d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr5BoxTop
+    second: {fileID: 2100000, guid: 4b38ef19bd93f3844acf9fae3db2230a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr5BoxTopINST
+    second: {fileID: 2100000, guid: 3e70ec079cba6d645a4b3752e6b141c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr5DiskInside
+    second: {fileID: 2100000, guid: 176d50f8aeec15a4cb70949bd4d5e5b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr5Tube
+    second: {fileID: 2100000, guid: 3bb334fa18c0f984baeb1e60a36d118a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr6Sides
+    second: {fileID: 2100000, guid: 26fbb0bd331a62f4f86e134fb2fe6a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr6TOP
+    second: {fileID: 2100000, guid: 86415cf596c79b74fa18229e8a87d9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr6TOPInsts
+    second: {fileID: 2100000, guid: d21d0365d201f29458ab2cd23fdcd268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr7Panel
+    second: {fileID: 2100000, guid: c3d7509f800f231458b6ea67fb1bcb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1TopIistr7main
+    second: {fileID: 2100000, guid: 72160f288d98b0a4c97807f64aed7d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomCenterDisk
+    second: {fileID: 2100000, guid: 79385a660276daf4abeaf0c6a13016eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomMainRails
+    second: {fileID: 2100000, guid: f48b36669ffe5b04ebaa2244c51f977c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomOuterDisk
+    second: {fileID: 2100000, guid: c9574d53594645240a622abd93480132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomPlasmaCone
+    second: {fileID: 2100000, guid: b1a40a38eb662e840abb89e73900f08e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomPlasmaConeBlu
+    second: {fileID: 2100000, guid: 58949de024a06d649a741854388763c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomThrusters
+    second: {fileID: 2100000, guid: ad866077e929de14ab3eadd8248c6559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainBottomdoohicky
+    second: {fileID: 2100000, guid: c60726821bbc52146a4ba5b750bdcbf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-X1
+    second: {fileID: 2100000, guid: 7aa299b645e71e048991a87eb6c81015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-X2
+    second: {fileID: 2100000, guid: 16680160d5e4db6419504bd5cf2638e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-X3
+    second: {fileID: 2100000, guid: 7725f1b3e44d72c428d40aa49bb80a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-X4
+    second: {fileID: 2100000, guid: 9ad0a3f070d7a814399c7909123a89a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-Z1
+    second: {fileID: 2100000, guid: e3287e1d689f5994ba94bbf7d009f212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainSide-Z2
+    second: {fileID: 2100000, guid: 002be61632aa73f4ab0d5f91a02235de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO-1mainTopBottom
+    second: {fileID: 2100000, guid: 7676cf7a83ea1b0438c19c04e2164cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanel-Nubs
+    second: {fileID: 2100000, guid: ea400c5d55ff2cf4a8182497ae674d8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanel-Stripes
+    second: {fileID: 2100000, guid: 3e7de369918a06e4e8185a53ac02fb56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanel-bronze
+    second: {fileID: 2100000, guid: a607f83a7d3bc1241b52ba004123c7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanel1
+    second: {fileID: 2100000, guid: cc9f37552013dc34f8229bfd2fe44be0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanel2
+    second: {fileID: 2100000, guid: 9fd7ec40fb3e72b458f6c175600af289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanelEndsgold
+    second: {fileID: 2100000, guid: 0ca524f2476de7c44b8538918ee78807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanelRods
+    second: {fileID: 2100000, guid: 2c4f49067230dff4ca1c888276969873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EO1-SolarPanelSides
+    second: {fileID: 2100000, guid: 139f92b917900694fa5035bccd8e7cfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces1
+    second: {fileID: 2100000, guid: fb9150ee7ef510044adb80400d5a8ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces2
+    second: {fileID: 2100000, guid: c2d4a46c5a7ac0d4895afa4589df7122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces3
+    second: {fileID: 2100000, guid: 7890f2ff5ca9669469e9da4f48f7aa31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces4
+    second: {fileID: 2100000, guid: b0767197e2a23f544a7d470deb40e95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces5
+    second: {fileID: 2100000, guid: c8fab5de5ae6db2488a262304d0e15b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces6
+    second: {fileID: 2100000, guid: e896ac1016f33044495c643e6f91895b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces7
+    second: {fileID: 2100000, guid: da0939a29d833254083dc600d756171e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces8
+    second: {fileID: 2100000, guid: a7b32b637bab0aa47908bb9f8fd93eb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NGTDRSS-SolarPanel-hinge
+    second: {fileID: 2100000, guid: 67e2f7a9b0ef9874e8f4684888bf8c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidePanel1SilverPanel1
+    second: {fileID: 2100000, guid: c808e129a5a9cda4da225c52023496e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidePanel1SilverPanel2
+    second: {fileID: 2100000, guid: 2a82309e1cd0c6a4c91b8d3fc27f54e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarPanelAttachBox
+    second: {fileID: 2100000, guid: 54a7e52c20486e54caffa7b7ee28d59e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarPanelMainBracket
+    second: {fileID: 2100000, guid: 87b50c75a6a2b7f4f8c826fa686369a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarPanelMainBracketFlat
+    second: {fileID: 2100000, guid: dfb3faa81ee2cad458539f1ddf0b87b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarPanelMainBracketPin
+    second: {fileID: 2100000, guid: 64710cb5fb4445e4e9daca1e65fabac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel2gridSpars
+    second: {fileID: 2100000, guid: f78abf0e8f85652409912810f569f8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel2gridWireHolders
+    second: {fileID: 2100000, guid: 12d09a02c1479e04b8d77107a4454476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel2gridWires
+    second: {fileID: 2100000, guid: 86980066aa04eec47b411c039993e758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel3panelBolts
+    second: {fileID: 2100000, guid: 5774d2583c9603a45a21855339386de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel3panelDisk1
+    second: {fileID: 2100000, guid: 58c5c77f0ffbbe84c85dded311821e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel3panelDisk2
+    second: {fileID: 2100000, guid: 8063bdc92d6af1d469aae69500a0b76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel4Horn
+    second: {fileID: 2100000, guid: 995df97e04456be4e8b2cabc8bc45334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel4HornBrkts
+    second: {fileID: 2100000, guid: 78dc27d7695318242b4e82c178fb6827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel4HornMountFaces
+    second: {fileID: 2100000, guid: 74946fdf5341e2249ace5d12f2d6d160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel4HornMountSides
+    second: {fileID: 2100000, guid: a78b6ddd85d98b2499edcb81da937f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel5GoldBar
+    second: {fileID: 2100000, guid: 0cf2f46f4953aff418cf3f81a6957a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel5GoldBarRods
+    second: {fileID: 2100000, guid: 8e54c5e1d825f8e469d9b45938a2d644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel5HornCenter
+    second: {fileID: 2100000, guid: e2438f53e816a1a449983a98a0b0599a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel5HornEnds
+    second: {fileID: 2100000, guid: 80a418e3926315a42a89c8e496353a17, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -8,6 +8,9 @@ public class followpath : MonoBehaviour
     public List<waypoint> waypoints;
     public int position = 0;
     public float speed = 1;
+    public int dir = 0;
+
+    private waypoint current;
 
     [Range(0, 100)]
     public float fadeSpeed = 1.0f;
@@ -20,6 +23,7 @@ public class followpath : MonoBehaviour
         foreach(waypoint p in points)
         {
             waypoints.Add(p);
+            
         }
         waypoints = waypoints.OrderBy(p => p.number).ToList();
 
@@ -31,10 +35,10 @@ public class followpath : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        if(Input.GetMouseButtonDown(0) || Input.GetKeyUp(KeyCode.PageDown))
         {
             Advance();
-        } else if(Input.GetMouseButtonDown(1))
+        } else if(Input.GetMouseButtonDown(1) || Input.GetKeyUp(KeyCode.PageUp))
         {
             Return();
         }
@@ -45,12 +49,18 @@ public class followpath : MonoBehaviour
             
             float distance = Vector3.Distance(transform.position, wp.transform.position);
 
+            //waypoint previous = getPrevious();
+            //previous.fadeOut(fadeSpeed / distance);
+
+            
             if (distance > 0.5)
             {
+                if(current != null)
+                {
+                    current.fadeOut(fadeSpeed);
+                }
                 // Add fade transition here
-                waypoint previous = getPrevious();
-                previous.fadeOut(fadeSpeed / distance);
-                wp.fadeIn(fadeSpeed / distance);
+                wp.fadeIn(fadeSpeed);
 
                 transform.rotation = Quaternion.Lerp(transform.rotation, wp.transform.rotation, speed / distance * Time.deltaTime);
                 Vector3 direction = (wp.transform.position - transform.position).normalized;
@@ -60,6 +70,8 @@ public class followpath : MonoBehaviour
             {
                 transform.position = wp.transform.position;
             }
+
+            current = wp;
         }
     }
 
@@ -87,6 +99,7 @@ public class followpath : MonoBehaviour
 
     public void Advance()
     {
+        dir = 1;
         if (position < waypoints.Count)
         {
             position++;
@@ -98,6 +111,7 @@ public class followpath : MonoBehaviour
 
     public void Return()
     {
+        dir = -1;
         if(position > 0)
         {
             position--;

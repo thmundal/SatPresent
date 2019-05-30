@@ -1,0 +1,1010 @@
+fileFormatVersion: 2
+guid: b39b86c016e297546808051524fccea1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mark3 - Mark2.3-1 16U Assem-1 Floor-1
+    100002: Mark3 - Mark2.3-1 16U Assem-1 Front 200 x 300 x 3,2-1
+    100004: Mark3 - Mark2.3-1 16U Assem-1 Rear wall 200 x 400 x 3,2-1
+    100006: Mark3 - Mark2.3-1 16U Assem-1 Side walls-1
+    100008: Mark3 - Mark2.3-1 16U Assem-1 Side walls-2
+    100010: Mark3 - Mark2.3-1 16U Assem-1 Tops-1
+    100012: Mark3 - Mark2.3-1 16U Assem-1 Tops-2
+    100014: Mark3 - Mark2.3-1 array holder-1
+    100016: Mark3 - Mark2.3-1 array holder-2
+    100018: Mark3 - Mark2.3-1 Solar array 200 x 400-1
+    100020: Mark3 - Mark2.3-1 Solar array 200 x 400-2
+    100022: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -1-1
+    100024: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -2-1
+    100026: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-1
+    100028: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-2
+    100030: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-3
+    100032: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-4
+    100034: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-5
+    100036: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-6
+    100038: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-7
+    100040: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-8
+    100042: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-9
+    100044: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T-1
+    100046: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -1-1
+    100048: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -2-1
+    100050: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-1
+    100052: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-2
+    100054: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-3
+    100056: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-4
+    100058: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-5
+    100060: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-6
+    100062: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-7
+    100064: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-8
+    100066: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-9
+    100068: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T-1
+    100070: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -1-1
+    100072: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -2-1
+    100074: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-1
+    100076: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-2
+    100078: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-3
+    100080: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-4
+    100082: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-5
+    100084: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-6
+    100086: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-7
+    100088: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-8
+    100090: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-9
+    100092: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T-1
+    100094: Mark3 - Mark3 And Satellite-1 basic external retaining ring am-
+    100096: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-1
+    100098: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-3
+    100100: Mark3 - Mark3 And Satellite-1 Capsule Housing-1
+    100102: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-1
+    100104: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-2
+    100106: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 wi.000
+    100108: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 with s
+    100110: 'Mark3 - Mark3 And Satellite-1 Drivetrain-1 radial ball bearing '
+    100112: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-1
+    100114: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-2
+    100116: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with fleng.000
+    100118: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with flenge al
+    100120: Mark3 - Mark3 And Satellite-1 Drivetrain-1 socket set screw con
+    100122: Mark3 - Mark3 And Satellite-1 Gear Assembly-1 spur gear din1-1
+    100124: Mark3 - Mark3 And Satellite-1 hex bolt gradeab din-2
+    100126: Mark3 - Mark3 And Satellite-1 hex nut style 1 gradeab din-1
+    100128: Mark3 - Mark3 And Satellite-1 Left Lid - M3-1
+    100130: Mark3 - Mark3 And Satellite-1 Mechanical stop-1
+    100132: Mark3 - Mark3 And Satellite-1 Motor Pin-1
+    100134: Mark3 - Mark3 And Satellite-1 OEM Motor-1
+    100136: Mark3 - Mark3 And Satellite-1 radial ball bearing 68 skf-1
+    100138: Mark3 - Mark3 And Satellite-1 Right lid-1
+    100140: Mark3 - Mark3 And Satellite-1 socket countersunk head screw din
+    100142: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.000
+    100144: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.001
+    100146: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.002
+    100148: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.003
+    100150: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.004
+    100152: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-10
+    100154: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-11
+    100156: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-12
+    100158: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-9
+    100160: Mark3 - Mark3 And Satellite-1 Wall 200x100 With Dsub holes-1
+    100162: Mark3 - Mark3 And Satellite-1 Wall 200x100-3
+    100164: Mark3 - Mark3 And Satellite-1 Wall 200x100-4
+    100166: Mark3 - Mark3 And Satellite-1 Wall 200x100-5
+    100168: Mark3 - Mark3 And Satellite-1 Wall, middle 100x100-1
+    100170: //RootNode
+    100172: Mark3 - Assem dt-1 D-T -1-1
+    100174: Mark3 - Assem dt-1 D-T -2-1
+    100176: Mark3 - Assem dt-1 D-t pin-1
+    100178: Mark3 - Assem dt-1 D-t pin-2
+    100180: Mark3 - Assem dt-1 D-t pin-3
+    100182: Mark3 - Assem dt-1 D-t pin-4
+    100184: Mark3 - Assem dt-1 D-t pin-5
+    100186: Mark3 - Assem dt-1 D-t pin-6
+    100188: Mark3 - Assem dt-1 D-t pin-7
+    100190: Mark3 - Assem dt-1 D-t pin-8
+    100192: Mark3 - Assem dt-1 D-t pin-9
+    100194: Mark3 - Assem dt-1 D-T-1
+    100196: Mark3 - Assem dt-2 D-T -1-1
+    100198: Mark3 - Assem dt-2 D-T -2-1
+    100200: Mark3 - Assem dt-2 D-t pin-1
+    100202: Mark3 - Assem dt-2 D-t pin-2
+    100204: Mark3 - Assem dt-2 D-t pin-3
+    100206: Mark3 - Assem dt-2 D-t pin-4
+    100208: Mark3 - Assem dt-2 D-t pin-5
+    100210: Mark3 - Assem dt-2 D-t pin-6
+    100212: Mark3 - Assem dt-2 D-t pin-7
+    100214: Mark3 - Assem dt-2 D-t pin-8
+    100216: Mark3 - Assem dt-2 D-t pin-9
+    100218: Mark3 - Assem dt-2 D-T-1
+    100220: Mark3 - Assem dt-3 D-T -1-1
+    100222: Mark3 - Assem dt-3 D-T -2-1
+    100224: Mark3 - Assem dt-3 D-t pin-1
+    100226: Mark3 - Assem dt-3 D-t pin-2
+    100228: Mark3 - Assem dt-3 D-t pin-3
+    100230: Mark3 - Assem dt-3 D-t pin-4
+    100232: Mark3 - Assem dt-3 D-t pin-5
+    100234: Mark3 - Assem dt-3 D-t pin-6
+    100236: Mark3 - Assem dt-3 D-t pin-7
+    100238: Mark3 - Assem dt-3 D-t pin-8
+    100240: Mark3 - Assem dt-3 D-t pin-9
+    100242: Mark3 - Assem dt-3 D-T-1
+    100244: Mark3 - basic external retaining ring am-2
+    100246: Mark3 - Bearing Lid - Flexshaft-1
+    100248: Mark3 - Bearing Lid - Flexshaft-3
+    100250: Mark3 - Capsule Housing-1
+    100252: Mark3 - Connector adapter-1
+    100254: Mark3 - countersunk flat head cross recess screw din-1
+    100256: Mark3 - countersunk flat head cross recess screw din-10
+    100258: Mark3 - countersunk flat head cross recess screw din-11
+    100260: Mark3 - countersunk flat head cross recess screw din-12
+    100262: Mark3 - countersunk flat head cross recess screw din-13
+    100264: Mark3 - countersunk flat head cross recess screw din-14
+    100266: Mark3 - countersunk flat head cross recess screw din-15
+    100268: Mark3 - countersunk flat head cross recess screw din-16
+    100270: Mark3 - countersunk flat head cross recess screw din-17
+    100272: Mark3 - countersunk flat head cross recess screw din-18
+    100274: Mark3 - countersunk flat head cross recess screw din-19
+    100276: Mark3 - countersunk flat head cross recess screw din-2
+    100278: Mark3 - countersunk flat head cross recess screw din-20
+    100280: Mark3 - countersunk flat head cross recess screw din-22
+    100282: Mark3 - countersunk flat head cross recess screw din-23
+    100284: Mark3 - countersunk flat head cross recess screw din-24
+    100286: Mark3 - countersunk flat head cross recess screw din-25
+    100288: Mark3 - countersunk flat head cross recess screw din-26
+    100290: Mark3 - countersunk flat head cross recess screw din-3
+    100292: Mark3 - countersunk flat head cross recess screw din-4
+    100294: Mark3 - countersunk flat head cross recess screw din-5
+    100296: Mark3 - countersunk flat head cross recess screw din-6
+    100298: Mark3 - countersunk flat head cross recess screw din-8
+    100300: Mark3 - countersunk flat head cross recess screw din-9
+    100302: Mark3 - Drivetrain-1 Connector adapter-1
+    100304: Mark3 - Drivetrain-1 Flex Shaft - M3-1
+    100306: Mark3 - Drivetrain-1 radial ball bearing 68 skf-1
+    100308: Mark3 - Drivetrain-1 Rigid-1
+    100310: Mark3 - Drivetrain-1 Shaft with flenge along pipe, long-1
+    100312: Mark3 - Drivetrain-1 Shaft with flenge along pipe-1
+    100314: Mark3 - Drivetrain-1 socket set screw cone point din-1
+    100316: Mark3 - Flex Shaft - M3-1
+    100318: Mark3 - Gear Assembly-1 spur gear din-1
+    100320: Mark3 - L-profile-10
+    100322: Mark3 - L-profile-11
+    100324: Mark3 - L-profile-12
+    100326: Mark3 - L-profile-9
+    100328: Mark3 - Left Lid - M3-1
+    100330: Mark3 - Motor Pin-1
+    100332: Mark3 - OEM Motor-1
+    100334: Mark3 - radial ball bearing 68 skf-1
+    100336: Mark3 - Right lid-1
+    100338: Mark3 - Rigid-1
+    100340: Mark3 - socket countersunk head screw din-10
+    100342: Mark3 - socket countersunk head screw din-11
+    100344: Mark3 - socket countersunk head screw din-2
+    100346: Mark3 - socket countersunk head screw din-3
+    100348: Mark3 - socket countersunk head screw din-4
+    100350: Mark3 - socket countersunk head screw din-6
+    100352: Mark3 - socket countersunk head screw din-7
+    100354: Mark3 - socket countersunk head screw din-8
+    100356: Mark3 - spur gear din-1
+    100358: Mark3 - Wall 200x100 With Dsub holes-1
+    100360: Mark3 - Wall 200x100-3
+    100362: Mark3 - Wall 200x100-4
+    100364: Mark3 - Wall 200x100-5
+    100366: Mark3 - Wall B, middle 100x100-1
+    400000: Mark3 - Mark2.3-1 16U Assem-1 Floor-1
+    400002: Mark3 - Mark2.3-1 16U Assem-1 Front 200 x 300 x 3,2-1
+    400004: Mark3 - Mark2.3-1 16U Assem-1 Rear wall 200 x 400 x 3,2-1
+    400006: Mark3 - Mark2.3-1 16U Assem-1 Side walls-1
+    400008: Mark3 - Mark2.3-1 16U Assem-1 Side walls-2
+    400010: Mark3 - Mark2.3-1 16U Assem-1 Tops-1
+    400012: Mark3 - Mark2.3-1 16U Assem-1 Tops-2
+    400014: Mark3 - Mark2.3-1 array holder-1
+    400016: Mark3 - Mark2.3-1 array holder-2
+    400018: Mark3 - Mark2.3-1 Solar array 200 x 400-1
+    400020: Mark3 - Mark2.3-1 Solar array 200 x 400-2
+    400022: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -1-1
+    400024: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -2-1
+    400026: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-1
+    400028: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-2
+    400030: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-3
+    400032: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-4
+    400034: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-5
+    400036: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-6
+    400038: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-7
+    400040: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-8
+    400042: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-9
+    400044: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T-1
+    400046: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -1-1
+    400048: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -2-1
+    400050: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-1
+    400052: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-2
+    400054: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-3
+    400056: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-4
+    400058: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-5
+    400060: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-6
+    400062: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-7
+    400064: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-8
+    400066: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-9
+    400068: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T-1
+    400070: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -1-1
+    400072: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -2-1
+    400074: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-1
+    400076: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-2
+    400078: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-3
+    400080: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-4
+    400082: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-5
+    400084: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-6
+    400086: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-7
+    400088: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-8
+    400090: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-9
+    400092: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T-1
+    400094: Mark3 - Mark3 And Satellite-1 basic external retaining ring am-
+    400096: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-1
+    400098: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-3
+    400100: Mark3 - Mark3 And Satellite-1 Capsule Housing-1
+    400102: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-1
+    400104: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-2
+    400106: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 wi.000
+    400108: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 with s
+    400110: 'Mark3 - Mark3 And Satellite-1 Drivetrain-1 radial ball bearing '
+    400112: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-1
+    400114: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-2
+    400116: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with fleng.000
+    400118: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with flenge al
+    400120: Mark3 - Mark3 And Satellite-1 Drivetrain-1 socket set screw con
+    400122: Mark3 - Mark3 And Satellite-1 Gear Assembly-1 spur gear din1-1
+    400124: Mark3 - Mark3 And Satellite-1 hex bolt gradeab din-2
+    400126: Mark3 - Mark3 And Satellite-1 hex nut style 1 gradeab din-1
+    400128: Mark3 - Mark3 And Satellite-1 Left Lid - M3-1
+    400130: Mark3 - Mark3 And Satellite-1 Mechanical stop-1
+    400132: Mark3 - Mark3 And Satellite-1 Motor Pin-1
+    400134: Mark3 - Mark3 And Satellite-1 OEM Motor-1
+    400136: Mark3 - Mark3 And Satellite-1 radial ball bearing 68 skf-1
+    400138: Mark3 - Mark3 And Satellite-1 Right lid-1
+    400140: Mark3 - Mark3 And Satellite-1 socket countersunk head screw din
+    400142: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.000
+    400144: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.001
+    400146: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.002
+    400148: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.003
+    400150: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.004
+    400152: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-10
+    400154: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-11
+    400156: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-12
+    400158: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-9
+    400160: Mark3 - Mark3 And Satellite-1 Wall 200x100 With Dsub holes-1
+    400162: Mark3 - Mark3 And Satellite-1 Wall 200x100-3
+    400164: Mark3 - Mark3 And Satellite-1 Wall 200x100-4
+    400166: Mark3 - Mark3 And Satellite-1 Wall 200x100-5
+    400168: Mark3 - Mark3 And Satellite-1 Wall, middle 100x100-1
+    400170: //RootNode
+    400172: Mark3 - Assem dt-1 D-T -1-1
+    400174: Mark3 - Assem dt-1 D-T -2-1
+    400176: Mark3 - Assem dt-1 D-t pin-1
+    400178: Mark3 - Assem dt-1 D-t pin-2
+    400180: Mark3 - Assem dt-1 D-t pin-3
+    400182: Mark3 - Assem dt-1 D-t pin-4
+    400184: Mark3 - Assem dt-1 D-t pin-5
+    400186: Mark3 - Assem dt-1 D-t pin-6
+    400188: Mark3 - Assem dt-1 D-t pin-7
+    400190: Mark3 - Assem dt-1 D-t pin-8
+    400192: Mark3 - Assem dt-1 D-t pin-9
+    400194: Mark3 - Assem dt-1 D-T-1
+    400196: Mark3 - Assem dt-2 D-T -1-1
+    400198: Mark3 - Assem dt-2 D-T -2-1
+    400200: Mark3 - Assem dt-2 D-t pin-1
+    400202: Mark3 - Assem dt-2 D-t pin-2
+    400204: Mark3 - Assem dt-2 D-t pin-3
+    400206: Mark3 - Assem dt-2 D-t pin-4
+    400208: Mark3 - Assem dt-2 D-t pin-5
+    400210: Mark3 - Assem dt-2 D-t pin-6
+    400212: Mark3 - Assem dt-2 D-t pin-7
+    400214: Mark3 - Assem dt-2 D-t pin-8
+    400216: Mark3 - Assem dt-2 D-t pin-9
+    400218: Mark3 - Assem dt-2 D-T-1
+    400220: Mark3 - Assem dt-3 D-T -1-1
+    400222: Mark3 - Assem dt-3 D-T -2-1
+    400224: Mark3 - Assem dt-3 D-t pin-1
+    400226: Mark3 - Assem dt-3 D-t pin-2
+    400228: Mark3 - Assem dt-3 D-t pin-3
+    400230: Mark3 - Assem dt-3 D-t pin-4
+    400232: Mark3 - Assem dt-3 D-t pin-5
+    400234: Mark3 - Assem dt-3 D-t pin-6
+    400236: Mark3 - Assem dt-3 D-t pin-7
+    400238: Mark3 - Assem dt-3 D-t pin-8
+    400240: Mark3 - Assem dt-3 D-t pin-9
+    400242: Mark3 - Assem dt-3 D-T-1
+    400244: Mark3 - basic external retaining ring am-2
+    400246: Mark3 - Bearing Lid - Flexshaft-1
+    400248: Mark3 - Bearing Lid - Flexshaft-3
+    400250: Mark3 - Capsule Housing-1
+    400252: Mark3 - Connector adapter-1
+    400254: Mark3 - countersunk flat head cross recess screw din-1
+    400256: Mark3 - countersunk flat head cross recess screw din-10
+    400258: Mark3 - countersunk flat head cross recess screw din-11
+    400260: Mark3 - countersunk flat head cross recess screw din-12
+    400262: Mark3 - countersunk flat head cross recess screw din-13
+    400264: Mark3 - countersunk flat head cross recess screw din-14
+    400266: Mark3 - countersunk flat head cross recess screw din-15
+    400268: Mark3 - countersunk flat head cross recess screw din-16
+    400270: Mark3 - countersunk flat head cross recess screw din-17
+    400272: Mark3 - countersunk flat head cross recess screw din-18
+    400274: Mark3 - countersunk flat head cross recess screw din-19
+    400276: Mark3 - countersunk flat head cross recess screw din-2
+    400278: Mark3 - countersunk flat head cross recess screw din-20
+    400280: Mark3 - countersunk flat head cross recess screw din-22
+    400282: Mark3 - countersunk flat head cross recess screw din-23
+    400284: Mark3 - countersunk flat head cross recess screw din-24
+    400286: Mark3 - countersunk flat head cross recess screw din-25
+    400288: Mark3 - countersunk flat head cross recess screw din-26
+    400290: Mark3 - countersunk flat head cross recess screw din-3
+    400292: Mark3 - countersunk flat head cross recess screw din-4
+    400294: Mark3 - countersunk flat head cross recess screw din-5
+    400296: Mark3 - countersunk flat head cross recess screw din-6
+    400298: Mark3 - countersunk flat head cross recess screw din-8
+    400300: Mark3 - countersunk flat head cross recess screw din-9
+    400302: Mark3 - Drivetrain-1 Connector adapter-1
+    400304: Mark3 - Drivetrain-1 Flex Shaft - M3-1
+    400306: Mark3 - Drivetrain-1 radial ball bearing 68 skf-1
+    400308: Mark3 - Drivetrain-1 Rigid-1
+    400310: Mark3 - Drivetrain-1 Shaft with flenge along pipe, long-1
+    400312: Mark3 - Drivetrain-1 Shaft with flenge along pipe-1
+    400314: Mark3 - Drivetrain-1 socket set screw cone point din-1
+    400316: Mark3 - Flex Shaft - M3-1
+    400318: Mark3 - Gear Assembly-1 spur gear din-1
+    400320: Mark3 - L-profile-10
+    400322: Mark3 - L-profile-11
+    400324: Mark3 - L-profile-12
+    400326: Mark3 - L-profile-9
+    400328: Mark3 - Left Lid - M3-1
+    400330: Mark3 - Motor Pin-1
+    400332: Mark3 - OEM Motor-1
+    400334: Mark3 - radial ball bearing 68 skf-1
+    400336: Mark3 - Right lid-1
+    400338: Mark3 - Rigid-1
+    400340: Mark3 - socket countersunk head screw din-10
+    400342: Mark3 - socket countersunk head screw din-11
+    400344: Mark3 - socket countersunk head screw din-2
+    400346: Mark3 - socket countersunk head screw din-3
+    400348: Mark3 - socket countersunk head screw din-4
+    400350: Mark3 - socket countersunk head screw din-6
+    400352: Mark3 - socket countersunk head screw din-7
+    400354: Mark3 - socket countersunk head screw din-8
+    400356: Mark3 - spur gear din-1
+    400358: Mark3 - Wall 200x100 With Dsub holes-1
+    400360: Mark3 - Wall 200x100-3
+    400362: Mark3 - Wall 200x100-4
+    400364: Mark3 - Wall 200x100-5
+    400366: Mark3 - Wall B, middle 100x100-1
+    2100000: No Name
+    2300000: Mark3 - Mark2.3-1 16U Assem-1 Floor-1
+    2300002: Mark3 - Mark2.3-1 16U Assem-1 Front 200 x 300 x 3,2-1
+    2300004: Mark3 - Mark2.3-1 16U Assem-1 Rear wall 200 x 400 x 3,2-1
+    2300006: Mark3 - Mark2.3-1 16U Assem-1 Side walls-1
+    2300008: Mark3 - Mark2.3-1 16U Assem-1 Side walls-2
+    2300010: Mark3 - Mark2.3-1 16U Assem-1 Tops-1
+    2300012: Mark3 - Mark2.3-1 16U Assem-1 Tops-2
+    2300014: Mark3 - Mark2.3-1 array holder-1
+    2300016: Mark3 - Mark2.3-1 array holder-2
+    2300018: Mark3 - Mark2.3-1 Solar array 200 x 400-1
+    2300020: Mark3 - Mark2.3-1 Solar array 200 x 400-2
+    2300022: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -1-1
+    2300024: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -2-1
+    2300026: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-1
+    2300028: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-2
+    2300030: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-3
+    2300032: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-4
+    2300034: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-5
+    2300036: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-6
+    2300038: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-7
+    2300040: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-8
+    2300042: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-9
+    2300044: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T-1
+    2300046: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -1-1
+    2300048: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -2-1
+    2300050: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-1
+    2300052: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-2
+    2300054: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-3
+    2300056: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-4
+    2300058: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-5
+    2300060: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-6
+    2300062: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-7
+    2300064: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-8
+    2300066: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-9
+    2300068: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T-1
+    2300070: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -1-1
+    2300072: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -2-1
+    2300074: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-1
+    2300076: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-2
+    2300078: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-3
+    2300080: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-4
+    2300082: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-5
+    2300084: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-6
+    2300086: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-7
+    2300088: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-8
+    2300090: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-9
+    2300092: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T-1
+    2300094: Mark3 - Mark3 And Satellite-1 basic external retaining ring am-
+    2300096: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-1
+    2300098: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-3
+    2300100: Mark3 - Mark3 And Satellite-1 Capsule Housing-1
+    2300102: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-1
+    2300104: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-2
+    2300106: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 wi.000
+    2300108: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 with s
+    2300110: 'Mark3 - Mark3 And Satellite-1 Drivetrain-1 radial ball bearing '
+    2300112: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-1
+    2300114: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-2
+    2300116: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with fleng.000
+    2300118: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with flenge al
+    2300120: Mark3 - Mark3 And Satellite-1 Drivetrain-1 socket set screw con
+    2300122: Mark3 - Mark3 And Satellite-1 Gear Assembly-1 spur gear din1-1
+    2300124: Mark3 - Mark3 And Satellite-1 hex bolt gradeab din-2
+    2300126: Mark3 - Mark3 And Satellite-1 hex nut style 1 gradeab din-1
+    2300128: Mark3 - Mark3 And Satellite-1 Left Lid - M3-1
+    2300130: Mark3 - Mark3 And Satellite-1 Mechanical stop-1
+    2300132: Mark3 - Mark3 And Satellite-1 Motor Pin-1
+    2300134: Mark3 - Mark3 And Satellite-1 OEM Motor-1
+    2300136: Mark3 - Mark3 And Satellite-1 radial ball bearing 68 skf-1
+    2300138: Mark3 - Mark3 And Satellite-1 Right lid-1
+    2300140: Mark3 - Mark3 And Satellite-1 socket countersunk head screw din
+    2300142: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.000
+    2300144: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.001
+    2300146: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.002
+    2300148: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.003
+    2300150: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.004
+    2300152: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-10
+    2300154: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-11
+    2300156: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-12
+    2300158: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-9
+    2300160: Mark3 - Mark3 And Satellite-1 Wall 200x100 With Dsub holes-1
+    2300162: Mark3 - Mark3 And Satellite-1 Wall 200x100-3
+    2300164: Mark3 - Mark3 And Satellite-1 Wall 200x100-4
+    2300166: Mark3 - Mark3 And Satellite-1 Wall 200x100-5
+    2300168: Mark3 - Mark3 And Satellite-1 Wall, middle 100x100-1
+    2300170: Mark3 - Assem dt-1 D-T -1-1
+    2300172: Mark3 - Assem dt-1 D-T -2-1
+    2300174: Mark3 - Assem dt-1 D-t pin-1
+    2300176: Mark3 - Assem dt-1 D-t pin-2
+    2300178: Mark3 - Assem dt-1 D-t pin-3
+    2300180: Mark3 - Assem dt-1 D-t pin-4
+    2300182: Mark3 - Assem dt-1 D-t pin-5
+    2300184: Mark3 - Assem dt-1 D-t pin-6
+    2300186: Mark3 - Assem dt-1 D-t pin-7
+    2300188: Mark3 - Assem dt-1 D-t pin-8
+    2300190: Mark3 - Assem dt-1 D-t pin-9
+    2300192: Mark3 - Assem dt-1 D-T-1
+    2300194: Mark3 - Assem dt-2 D-T -1-1
+    2300196: Mark3 - Assem dt-2 D-T -2-1
+    2300198: Mark3 - Assem dt-2 D-t pin-1
+    2300200: Mark3 - Assem dt-2 D-t pin-2
+    2300202: Mark3 - Assem dt-2 D-t pin-3
+    2300204: Mark3 - Assem dt-2 D-t pin-4
+    2300206: Mark3 - Assem dt-2 D-t pin-5
+    2300208: Mark3 - Assem dt-2 D-t pin-6
+    2300210: Mark3 - Assem dt-2 D-t pin-7
+    2300212: Mark3 - Assem dt-2 D-t pin-8
+    2300214: Mark3 - Assem dt-2 D-t pin-9
+    2300216: Mark3 - Assem dt-2 D-T-1
+    2300218: Mark3 - Assem dt-3 D-T -1-1
+    2300220: Mark3 - Assem dt-3 D-T -2-1
+    2300222: Mark3 - Assem dt-3 D-t pin-1
+    2300224: Mark3 - Assem dt-3 D-t pin-2
+    2300226: Mark3 - Assem dt-3 D-t pin-3
+    2300228: Mark3 - Assem dt-3 D-t pin-4
+    2300230: Mark3 - Assem dt-3 D-t pin-5
+    2300232: Mark3 - Assem dt-3 D-t pin-6
+    2300234: Mark3 - Assem dt-3 D-t pin-7
+    2300236: Mark3 - Assem dt-3 D-t pin-8
+    2300238: Mark3 - Assem dt-3 D-t pin-9
+    2300240: Mark3 - Assem dt-3 D-T-1
+    2300242: Mark3 - basic external retaining ring am-2
+    2300244: Mark3 - Bearing Lid - Flexshaft-1
+    2300246: Mark3 - Bearing Lid - Flexshaft-3
+    2300248: Mark3 - Capsule Housing-1
+    2300250: Mark3 - Connector adapter-1
+    2300252: Mark3 - countersunk flat head cross recess screw din-1
+    2300254: Mark3 - countersunk flat head cross recess screw din-10
+    2300256: Mark3 - countersunk flat head cross recess screw din-11
+    2300258: Mark3 - countersunk flat head cross recess screw din-12
+    2300260: Mark3 - countersunk flat head cross recess screw din-13
+    2300262: Mark3 - countersunk flat head cross recess screw din-14
+    2300264: Mark3 - countersunk flat head cross recess screw din-15
+    2300266: Mark3 - countersunk flat head cross recess screw din-16
+    2300268: Mark3 - countersunk flat head cross recess screw din-17
+    2300270: Mark3 - countersunk flat head cross recess screw din-18
+    2300272: Mark3 - countersunk flat head cross recess screw din-19
+    2300274: Mark3 - countersunk flat head cross recess screw din-2
+    2300276: Mark3 - countersunk flat head cross recess screw din-20
+    2300278: Mark3 - countersunk flat head cross recess screw din-22
+    2300280: Mark3 - countersunk flat head cross recess screw din-23
+    2300282: Mark3 - countersunk flat head cross recess screw din-24
+    2300284: Mark3 - countersunk flat head cross recess screw din-25
+    2300286: Mark3 - countersunk flat head cross recess screw din-26
+    2300288: Mark3 - countersunk flat head cross recess screw din-3
+    2300290: Mark3 - countersunk flat head cross recess screw din-4
+    2300292: Mark3 - countersunk flat head cross recess screw din-5
+    2300294: Mark3 - countersunk flat head cross recess screw din-6
+    2300296: Mark3 - countersunk flat head cross recess screw din-8
+    2300298: Mark3 - countersunk flat head cross recess screw din-9
+    2300300: Mark3 - Drivetrain-1 Connector adapter-1
+    2300302: Mark3 - Drivetrain-1 Flex Shaft - M3-1
+    2300304: Mark3 - Drivetrain-1 radial ball bearing 68 skf-1
+    2300306: Mark3 - Drivetrain-1 Rigid-1
+    2300308: Mark3 - Drivetrain-1 Shaft with flenge along pipe, long-1
+    2300310: Mark3 - Drivetrain-1 Shaft with flenge along pipe-1
+    2300312: Mark3 - Drivetrain-1 socket set screw cone point din-1
+    2300314: Mark3 - Flex Shaft - M3-1
+    2300316: Mark3 - Gear Assembly-1 spur gear din-1
+    2300318: Mark3 - L-profile-10
+    2300320: Mark3 - L-profile-11
+    2300322: Mark3 - L-profile-12
+    2300324: Mark3 - L-profile-9
+    2300326: Mark3 - Left Lid - M3-1
+    2300328: Mark3 - Motor Pin-1
+    2300330: Mark3 - OEM Motor-1
+    2300332: Mark3 - radial ball bearing 68 skf-1
+    2300334: Mark3 - Right lid-1
+    2300336: Mark3 - Rigid-1
+    2300338: Mark3 - socket countersunk head screw din-10
+    2300340: Mark3 - socket countersunk head screw din-11
+    2300342: Mark3 - socket countersunk head screw din-2
+    2300344: Mark3 - socket countersunk head screw din-3
+    2300346: Mark3 - socket countersunk head screw din-4
+    2300348: Mark3 - socket countersunk head screw din-6
+    2300350: Mark3 - socket countersunk head screw din-7
+    2300352: Mark3 - socket countersunk head screw din-8
+    2300354: Mark3 - spur gear din-1
+    2300356: Mark3 - Wall 200x100 With Dsub holes-1
+    2300358: Mark3 - Wall 200x100-3
+    2300360: Mark3 - Wall 200x100-4
+    2300362: Mark3 - Wall 200x100-5
+    2300364: Mark3 - Wall B, middle 100x100-1
+    3300000: Mark3 - Mark2.3-1 16U Assem-1 Floor-1
+    3300002: Mark3 - Mark2.3-1 16U Assem-1 Front 200 x 300 x 3,2-1
+    3300004: Mark3 - Mark2.3-1 16U Assem-1 Rear wall 200 x 400 x 3,2-1
+    3300006: Mark3 - Mark2.3-1 16U Assem-1 Side walls-1
+    3300008: Mark3 - Mark2.3-1 16U Assem-1 Side walls-2
+    3300010: Mark3 - Mark2.3-1 16U Assem-1 Tops-1
+    3300012: Mark3 - Mark2.3-1 16U Assem-1 Tops-2
+    3300014: Mark3 - Mark2.3-1 array holder-1
+    3300016: Mark3 - Mark2.3-1 array holder-2
+    3300018: Mark3 - Mark2.3-1 Solar array 200 x 400-1
+    3300020: Mark3 - Mark2.3-1 Solar array 200 x 400-2
+    3300022: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -1-1
+    3300024: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -2-1
+    3300026: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-1
+    3300028: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-2
+    3300030: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-3
+    3300032: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-4
+    3300034: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-5
+    3300036: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-6
+    3300038: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-7
+    3300040: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-8
+    3300042: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-9
+    3300044: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T-1
+    3300046: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -1-1
+    3300048: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -2-1
+    3300050: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-1
+    3300052: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-2
+    3300054: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-3
+    3300056: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-4
+    3300058: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-5
+    3300060: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-6
+    3300062: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-7
+    3300064: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-8
+    3300066: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-9
+    3300068: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T-1
+    3300070: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -1-1
+    3300072: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -2-1
+    3300074: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-1
+    3300076: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-2
+    3300078: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-3
+    3300080: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-4
+    3300082: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-5
+    3300084: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-6
+    3300086: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-7
+    3300088: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-8
+    3300090: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-9
+    3300092: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T-1
+    3300094: Mark3 - Mark3 And Satellite-1 basic external retaining ring am-
+    3300096: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-1
+    3300098: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-3
+    3300100: Mark3 - Mark3 And Satellite-1 Capsule Housing-1
+    3300102: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-1
+    3300104: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-2
+    3300106: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 wi.000
+    3300108: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 with s
+    3300110: 'Mark3 - Mark3 And Satellite-1 Drivetrain-1 radial ball bearing '
+    3300112: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-1
+    3300114: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-2
+    3300116: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with fleng.000
+    3300118: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with flenge al
+    3300120: Mark3 - Mark3 And Satellite-1 Drivetrain-1 socket set screw con
+    3300122: Mark3 - Mark3 And Satellite-1 Gear Assembly-1 spur gear din1-1
+    3300124: Mark3 - Mark3 And Satellite-1 hex bolt gradeab din-2
+    3300126: Mark3 - Mark3 And Satellite-1 hex nut style 1 gradeab din-1
+    3300128: Mark3 - Mark3 And Satellite-1 Left Lid - M3-1
+    3300130: Mark3 - Mark3 And Satellite-1 Mechanical stop-1
+    3300132: Mark3 - Mark3 And Satellite-1 Motor Pin-1
+    3300134: Mark3 - Mark3 And Satellite-1 OEM Motor-1
+    3300136: Mark3 - Mark3 And Satellite-1 radial ball bearing 68 skf-1
+    3300138: Mark3 - Mark3 And Satellite-1 Right lid-1
+    3300140: Mark3 - Mark3 And Satellite-1 socket countersunk head screw din
+    3300142: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.000
+    3300144: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.001
+    3300146: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.002
+    3300148: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.003
+    3300150: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.004
+    3300152: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-10
+    3300154: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-11
+    3300156: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-12
+    3300158: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-9
+    3300160: Mark3 - Mark3 And Satellite-1 Wall 200x100 With Dsub holes-1
+    3300162: Mark3 - Mark3 And Satellite-1 Wall 200x100-3
+    3300164: Mark3 - Mark3 And Satellite-1 Wall 200x100-4
+    3300166: Mark3 - Mark3 And Satellite-1 Wall 200x100-5
+    3300168: Mark3 - Mark3 And Satellite-1 Wall, middle 100x100-1
+    3300170: Mark3 - Assem dt-1 D-T -1-1
+    3300172: Mark3 - Assem dt-1 D-T -2-1
+    3300174: Mark3 - Assem dt-1 D-t pin-1
+    3300176: Mark3 - Assem dt-1 D-t pin-2
+    3300178: Mark3 - Assem dt-1 D-t pin-3
+    3300180: Mark3 - Assem dt-1 D-t pin-4
+    3300182: Mark3 - Assem dt-1 D-t pin-5
+    3300184: Mark3 - Assem dt-1 D-t pin-6
+    3300186: Mark3 - Assem dt-1 D-t pin-7
+    3300188: Mark3 - Assem dt-1 D-t pin-8
+    3300190: Mark3 - Assem dt-1 D-t pin-9
+    3300192: Mark3 - Assem dt-1 D-T-1
+    3300194: Mark3 - Assem dt-2 D-T -1-1
+    3300196: Mark3 - Assem dt-2 D-T -2-1
+    3300198: Mark3 - Assem dt-2 D-t pin-1
+    3300200: Mark3 - Assem dt-2 D-t pin-2
+    3300202: Mark3 - Assem dt-2 D-t pin-3
+    3300204: Mark3 - Assem dt-2 D-t pin-4
+    3300206: Mark3 - Assem dt-2 D-t pin-5
+    3300208: Mark3 - Assem dt-2 D-t pin-6
+    3300210: Mark3 - Assem dt-2 D-t pin-7
+    3300212: Mark3 - Assem dt-2 D-t pin-8
+    3300214: Mark3 - Assem dt-2 D-t pin-9
+    3300216: Mark3 - Assem dt-2 D-T-1
+    3300218: Mark3 - Assem dt-3 D-T -1-1
+    3300220: Mark3 - Assem dt-3 D-T -2-1
+    3300222: Mark3 - Assem dt-3 D-t pin-1
+    3300224: Mark3 - Assem dt-3 D-t pin-2
+    3300226: Mark3 - Assem dt-3 D-t pin-3
+    3300228: Mark3 - Assem dt-3 D-t pin-4
+    3300230: Mark3 - Assem dt-3 D-t pin-5
+    3300232: Mark3 - Assem dt-3 D-t pin-6
+    3300234: Mark3 - Assem dt-3 D-t pin-7
+    3300236: Mark3 - Assem dt-3 D-t pin-8
+    3300238: Mark3 - Assem dt-3 D-t pin-9
+    3300240: Mark3 - Assem dt-3 D-T-1
+    3300242: Mark3 - basic external retaining ring am-2
+    3300244: Mark3 - Bearing Lid - Flexshaft-1
+    3300246: Mark3 - Bearing Lid - Flexshaft-3
+    3300248: Mark3 - Capsule Housing-1
+    3300250: Mark3 - Connector adapter-1
+    3300252: Mark3 - countersunk flat head cross recess screw din-1
+    3300254: Mark3 - countersunk flat head cross recess screw din-10
+    3300256: Mark3 - countersunk flat head cross recess screw din-11
+    3300258: Mark3 - countersunk flat head cross recess screw din-12
+    3300260: Mark3 - countersunk flat head cross recess screw din-13
+    3300262: Mark3 - countersunk flat head cross recess screw din-14
+    3300264: Mark3 - countersunk flat head cross recess screw din-15
+    3300266: Mark3 - countersunk flat head cross recess screw din-16
+    3300268: Mark3 - countersunk flat head cross recess screw din-17
+    3300270: Mark3 - countersunk flat head cross recess screw din-18
+    3300272: Mark3 - countersunk flat head cross recess screw din-19
+    3300274: Mark3 - countersunk flat head cross recess screw din-2
+    3300276: Mark3 - countersunk flat head cross recess screw din-20
+    3300278: Mark3 - countersunk flat head cross recess screw din-22
+    3300280: Mark3 - countersunk flat head cross recess screw din-23
+    3300282: Mark3 - countersunk flat head cross recess screw din-24
+    3300284: Mark3 - countersunk flat head cross recess screw din-25
+    3300286: Mark3 - countersunk flat head cross recess screw din-26
+    3300288: Mark3 - countersunk flat head cross recess screw din-3
+    3300290: Mark3 - countersunk flat head cross recess screw din-4
+    3300292: Mark3 - countersunk flat head cross recess screw din-5
+    3300294: Mark3 - countersunk flat head cross recess screw din-6
+    3300296: Mark3 - countersunk flat head cross recess screw din-8
+    3300298: Mark3 - countersunk flat head cross recess screw din-9
+    3300300: Mark3 - Drivetrain-1 Connector adapter-1
+    3300302: Mark3 - Drivetrain-1 Flex Shaft - M3-1
+    3300304: Mark3 - Drivetrain-1 radial ball bearing 68 skf-1
+    3300306: Mark3 - Drivetrain-1 Rigid-1
+    3300308: Mark3 - Drivetrain-1 Shaft with flenge along pipe, long-1
+    3300310: Mark3 - Drivetrain-1 Shaft with flenge along pipe-1
+    3300312: Mark3 - Drivetrain-1 socket set screw cone point din-1
+    3300314: Mark3 - Flex Shaft - M3-1
+    3300316: Mark3 - Gear Assembly-1 spur gear din-1
+    3300318: Mark3 - L-profile-10
+    3300320: Mark3 - L-profile-11
+    3300322: Mark3 - L-profile-12
+    3300324: Mark3 - L-profile-9
+    3300326: Mark3 - Left Lid - M3-1
+    3300328: Mark3 - Motor Pin-1
+    3300330: Mark3 - OEM Motor-1
+    3300332: Mark3 - radial ball bearing 68 skf-1
+    3300334: Mark3 - Right lid-1
+    3300336: Mark3 - Rigid-1
+    3300338: Mark3 - socket countersunk head screw din-10
+    3300340: Mark3 - socket countersunk head screw din-11
+    3300342: Mark3 - socket countersunk head screw din-2
+    3300344: Mark3 - socket countersunk head screw din-3
+    3300346: Mark3 - socket countersunk head screw din-4
+    3300348: Mark3 - socket countersunk head screw din-6
+    3300350: Mark3 - socket countersunk head screw din-7
+    3300352: Mark3 - socket countersunk head screw din-8
+    3300354: Mark3 - spur gear din-1
+    3300356: Mark3 - Wall 200x100 With Dsub holes-1
+    3300358: Mark3 - Wall 200x100-3
+    3300360: Mark3 - Wall 200x100-4
+    3300362: Mark3 - Wall 200x100-5
+    3300364: Mark3 - Wall B, middle 100x100-1
+    4300000: Mark3 - Mark2.3-1 16U Assem-1 Floor-1
+    4300002: Mark3 - Mark2.3-1 16U Assem-1 Front 200 x 300 x 3,2-1
+    4300004: Mark3 - Mark2.3-1 16U Assem-1 Rear wall 200 x 400 x 3,2-1
+    4300006: Mark3 - Mark2.3-1 16U Assem-1 Side walls-1
+    4300008: Mark3 - Mark2.3-1 16U Assem-1 Side walls-2
+    4300010: Mark3 - Mark2.3-1 16U Assem-1 Tops-1
+    4300012: Mark3 - Mark2.3-1 16U Assem-1 Tops-2
+    4300014: Mark3 - Mark2.3-1 array holder-1
+    4300016: Mark3 - Mark2.3-1 array holder-2
+    4300018: Mark3 - Mark2.3-1 Solar array 200 x 400-1
+    4300020: Mark3 - Mark2.3-1 Solar array 200 x 400-2
+    4300022: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -1-1
+    4300024: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T -2-1
+    4300026: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-1
+    4300028: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-2
+    4300030: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-3
+    4300032: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-4
+    4300034: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-5
+    4300036: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-6
+    4300038: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-7
+    4300040: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-8
+    4300042: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-t pin-9
+    4300044: Mark3 - Mark3 And Satellite-1 Assem dt-1 D-T-1
+    4300046: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -1-1
+    4300048: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T -2-1
+    4300050: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-1
+    4300052: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-2
+    4300054: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-3
+    4300056: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-4
+    4300058: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-5
+    4300060: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-6
+    4300062: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-7
+    4300064: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-8
+    4300066: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-t pin-9
+    4300068: Mark3 - Mark3 And Satellite-1 Assem dt-2 D-T-1
+    4300070: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -1-1
+    4300072: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T -2-1
+    4300074: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-1
+    4300076: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-2
+    4300078: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-3
+    4300080: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-4
+    4300082: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-5
+    4300084: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-6
+    4300086: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-7
+    4300088: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-8
+    4300090: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-t pin-9
+    4300092: Mark3 - Mark3 And Satellite-1 Assem dt-3 D-T-1
+    4300094: Mark3 - Mark3 And Satellite-1 basic external retaining ring am-
+    4300096: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-1
+    4300098: Mark3 - Mark3 And Satellite-1 Bearing Lid - Flexshaft-3
+    4300100: Mark3 - Mark3 And Satellite-1 Capsule Housing-1
+    4300102: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-1
+    4300104: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Connector adapter-2
+    4300106: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 with s
+    4300108: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Flex Shaft M3 wi.000
+    4300110: 'Mark3 - Mark3 And Satellite-1 Drivetrain-1 radial ball bearing '
+    4300112: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-1
+    4300114: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Rigid-2
+    4300116: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with flenge al
+    4300118: Mark3 - Mark3 And Satellite-1 Drivetrain-1 Shaft with fleng.000
+    4300120: Mark3 - Mark3 And Satellite-1 Drivetrain-1 socket set screw con
+    4300122: Mark3 - Mark3 And Satellite-1 Gear Assembly-1 spur gear din1-1
+    4300124: Mark3 - Mark3 And Satellite-1 hex bolt gradeab din-2
+    4300126: Mark3 - Mark3 And Satellite-1 hex nut style 1 gradeab din-1
+    4300128: Mark3 - Mark3 And Satellite-1 Left Lid - M3-1
+    4300130: Mark3 - Mark3 And Satellite-1 Mechanical stop-1
+    4300132: Mark3 - Mark3 And Satellite-1 Motor Pin-1
+    4300134: Mark3 - Mark3 And Satellite-1 OEM Motor-1
+    4300136: Mark3 - Mark3 And Satellite-1 radial ball bearing 68 skf-1
+    4300138: Mark3 - Mark3 And Satellite-1 Right lid-1
+    4300140: Mark3 - Mark3 And Satellite-1 socket countersunk head screw din
+    4300142: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.000
+    4300144: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.001
+    4300146: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.002
+    4300148: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.003
+    4300150: Mark3 - Mark3 And Satellite-1 socket countersunk head screw.004
+    4300152: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-9
+    4300154: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-10
+    4300156: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-11
+    4300158: Mark3 - Mark3 And Satellite-1 T-shapeed beam 200mm-12
+    4300160: Mark3 - Mark3 And Satellite-1 Wall 200x100 With Dsub holes-1
+    4300162: Mark3 - Mark3 And Satellite-1 Wall 200x100-3
+    4300164: Mark3 - Mark3 And Satellite-1 Wall 200x100-4
+    4300166: Mark3 - Mark3 And Satellite-1 Wall 200x100-5
+    4300168: Mark3 - Mark3 And Satellite-1 Wall, middle 100x100-1
+    4300170: Mark3 - Assem dt-1 D-T -1-1
+    4300172: Mark3 - Assem dt-1 D-T -2-1
+    4300174: Mark3 - Assem dt-1 D-t pin-1
+    4300176: Mark3 - Assem dt-1 D-t pin-2
+    4300178: Mark3 - Assem dt-1 D-t pin-3
+    4300180: Mark3 - Assem dt-1 D-t pin-4
+    4300182: Mark3 - Assem dt-1 D-t pin-5
+    4300184: Mark3 - Assem dt-1 D-t pin-6
+    4300186: Mark3 - Assem dt-1 D-t pin-7
+    4300188: Mark3 - Assem dt-1 D-t pin-8
+    4300190: Mark3 - Assem dt-1 D-t pin-9
+    4300192: Mark3 - Assem dt-1 D-T-1
+    4300194: Mark3 - Assem dt-2 D-T -1-1
+    4300196: Mark3 - Assem dt-2 D-T -2-1
+    4300198: Mark3 - Assem dt-2 D-t pin-1
+    4300200: Mark3 - Assem dt-2 D-t pin-2
+    4300202: Mark3 - Assem dt-2 D-t pin-3
+    4300204: Mark3 - Assem dt-2 D-t pin-4
+    4300206: Mark3 - Assem dt-2 D-t pin-5
+    4300208: Mark3 - Assem dt-2 D-t pin-6
+    4300210: Mark3 - Assem dt-2 D-t pin-7
+    4300212: Mark3 - Assem dt-2 D-t pin-8
+    4300214: Mark3 - Assem dt-2 D-t pin-9
+    4300216: Mark3 - Assem dt-2 D-T-1
+    4300218: Mark3 - Assem dt-3 D-T -1-1
+    4300220: Mark3 - Assem dt-3 D-T -2-1
+    4300222: Mark3 - Assem dt-3 D-t pin-1
+    4300224: Mark3 - Assem dt-3 D-t pin-2
+    4300226: Mark3 - Assem dt-3 D-t pin-3
+    4300228: Mark3 - Assem dt-3 D-t pin-4
+    4300230: Mark3 - Assem dt-3 D-t pin-5
+    4300232: Mark3 - Assem dt-3 D-t pin-6
+    4300234: Mark3 - Assem dt-3 D-t pin-7
+    4300236: Mark3 - Assem dt-3 D-t pin-8
+    4300238: Mark3 - Assem dt-3 D-t pin-9
+    4300240: Mark3 - Assem dt-3 D-T-1
+    4300242: Mark3 - basic external retaining ring am-2
+    4300244: Mark3 - Bearing Lid - Flexshaft-1
+    4300246: Mark3 - Bearing Lid - Flexshaft-3
+    4300248: Mark3 - Capsule Housing-1
+    4300250: Mark3 - Connector adapter-1
+    4300252: Mark3 - countersunk flat head cross recess screw din-1
+    4300254: Mark3 - countersunk flat head cross recess screw din-2
+    4300256: Mark3 - countersunk flat head cross recess screw din-3
+    4300258: Mark3 - countersunk flat head cross recess screw din-4
+    4300260: Mark3 - countersunk flat head cross recess screw din-5
+    4300262: Mark3 - countersunk flat head cross recess screw din-6
+    4300264: Mark3 - countersunk flat head cross recess screw din-8
+    4300266: Mark3 - countersunk flat head cross recess screw din-9
+    4300268: Mark3 - countersunk flat head cross recess screw din-10
+    4300270: Mark3 - countersunk flat head cross recess screw din-11
+    4300272: Mark3 - countersunk flat head cross recess screw din-12
+    4300274: Mark3 - countersunk flat head cross recess screw din-13
+    4300276: Mark3 - countersunk flat head cross recess screw din-14
+    4300278: Mark3 - countersunk flat head cross recess screw din-15
+    4300280: Mark3 - countersunk flat head cross recess screw din-16
+    4300282: Mark3 - countersunk flat head cross recess screw din-17
+    4300284: Mark3 - countersunk flat head cross recess screw din-18
+    4300286: Mark3 - countersunk flat head cross recess screw din-19
+    4300288: Mark3 - countersunk flat head cross recess screw din-20
+    4300290: Mark3 - countersunk flat head cross recess screw din-22
+    4300292: Mark3 - countersunk flat head cross recess screw din-23
+    4300294: Mark3 - countersunk flat head cross recess screw din-24
+    4300296: Mark3 - countersunk flat head cross recess screw din-25
+    4300298: Mark3 - countersunk flat head cross recess screw din-26
+    4300300: Mark3 - Drivetrain-1 Connector adapter-1
+    4300302: Mark3 - Drivetrain-1 Flex Shaft - M3-1
+    4300304: Mark3 - Drivetrain-1 radial ball bearing 68 skf-1
+    4300306: Mark3 - Drivetrain-1 Rigid-1
+    4300308: Mark3 - Drivetrain-1 Shaft with flenge along pipe, long-1
+    4300310: Mark3 - Drivetrain-1 Shaft with flenge along pipe-1
+    4300312: Mark3 - Drivetrain-1 socket set screw cone point din-1
+    4300314: Mark3 - Flex Shaft - M3-1
+    4300316: Mark3 - Gear Assembly-1 spur gear din-1
+    4300318: Mark3 - L-profile-9
+    4300320: Mark3 - L-profile-10
+    4300322: Mark3 - L-profile-11
+    4300324: Mark3 - L-profile-12
+    4300326: Mark3 - Left Lid - M3-1
+    4300328: Mark3 - Motor Pin-1
+    4300330: Mark3 - OEM Motor-1
+    4300332: Mark3 - radial ball bearing 68 skf-1
+    4300334: Mark3 - Right lid-1
+    4300336: Mark3 - Rigid-1
+    4300338: Mark3 - socket countersunk head screw din-2
+    4300340: Mark3 - socket countersunk head screw din-3
+    4300342: Mark3 - socket countersunk head screw din-4
+    4300344: Mark3 - socket countersunk head screw din-6
+    4300346: Mark3 - socket countersunk head screw din-7
+    4300348: Mark3 - socket countersunk head screw din-8
+    4300350: Mark3 - socket countersunk head screw din-10
+    4300352: Mark3 - socket countersunk head screw din-11
+    4300354: Mark3 - spur gear din-1
+    4300356: Mark3 - Wall 200x100 With Dsub holes-1
+    4300358: Mark3 - Wall 200x100-3
+    4300360: Mark3 - Wall 200x100-4
+    4300362: Mark3 - Wall 200x100-5
+    4300364: Mark3 - Wall B, middle 100x100-1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
